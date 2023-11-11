@@ -7,3 +7,6 @@ int main{
 	cout << "so nguyen la 1";
 	return 0;
 }
+int chinhphuong{
+	
+}
